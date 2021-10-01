@@ -29,7 +29,7 @@ export default function login() {
                         component="h4"
                         style={{ textAlign: "center" }}
                       >
-                        Login
+                        Login page
                       </Typography>
                     </Grid>
                     <Grid item xs={12}>
